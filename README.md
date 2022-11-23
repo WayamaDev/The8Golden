@@ -3,8 +3,8 @@
 - 🌱 J'apprend actuellement le bash.
 - 📫 Pour me parler ajouter moi en amis sur discord : Logan#5000
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=The8Golden)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=The8Golden)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=The8Golden&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=The8Golden&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 
 <!---
