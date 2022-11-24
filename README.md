@@ -9,6 +9,8 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=The8Golden&theme=radical" />
 </a>
 
+<hr/>
+
 [![twitter](https://github.com/shikhar1020jais1/Git-Social/blob/master/Icons/Twitter1.png (Twitter))][1]
 
 [1]: https://twitter.com/VersavelLogan1
