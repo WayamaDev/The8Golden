@@ -15,6 +15,8 @@
 
 [1]: https://twitter.com/VersavelLogan1
 
+[![instagram](https://github.com/shikhar1020jais1/Git-Social/blob/master/Icons/Instagram.png (Instagram))][2]
+
 
 <!---
 The8Golden/The8Golden is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
