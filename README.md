@@ -9,7 +9,7 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=The8Golden&theme=radical" />
 </a>
 
-
+<i class="gsicon-twitter"></i>
 
 <!---
 The8Golden/The8Golden is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
