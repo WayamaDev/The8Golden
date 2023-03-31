@@ -10,9 +10,3 @@
 </a>
 
 <hr/>
-
-[![twitter](https://github.com/shikhar1020jais1/Git-Social/blob/master/Icons/Twitter1.png (Twitter))][1]
-
-[1]: https://twitter.com/VersavelLogan1
-
-[![instagram](https://github.com/shikhar1020jais1/Git-Social/blob/master/Icons/Instagram.png (Instagram))][2]
