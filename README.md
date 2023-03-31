@@ -1,7 +1,7 @@
 - 👋 Hi, Je suis Logan
-- 👀 Je suis interesser par la programmation Python, shell, et un peu sql.
-- 🌱 J'apprend actuellement le bash.
-- 📫 Pour me parler ajouter moi en amis sur discord : ![](https://dcbadge.vercel.app/api/shield/297854445973274635)
+- 👀 Je suis interessé par la programmation Python, shell, et un peu sql.
+- 🌱 J'apprends actuellement le bash.
+- 📫 Pour me parler ajoutez moi en ami sur discord : ![](https://dcbadge.vercel.app/api/shield/297854445973274635)
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=The8Golden&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
