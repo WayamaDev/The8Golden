@@ -1,5 +1,5 @@
 - 👋 Hi, Je suis Logan
-- 👀 Je suis interesser par la programmation Python, C#, et un peu sql.
+- 👀 Je suis interesser par la programmation Python, shell, et un peu sql.
 - 🌱 J'apprend actuellement le bash.
 - 📫 Pour me parler ajouter moi en amis sur discord : Logan#5000
 
