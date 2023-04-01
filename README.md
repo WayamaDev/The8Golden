@@ -1,4 +1,4 @@
-- 👋 Hi, Je suis Logan
+- 👋 Hey, je suis Logan
 - 👀 Je suis interessé par la programmation Python, shell, et un peu sql.
 - 🌱 J'apprends actuellement le bash.
 - 📫 Pour me parler ajoutez moi en ami sur discord : ![](https://dcbadge.vercel.app/api/shield/297854445973274635?style=social)
