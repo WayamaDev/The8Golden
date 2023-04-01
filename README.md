@@ -3,7 +3,7 @@
 - 🌱 J'apprends actuellement le bash.
 - 📫 Pour me parler ajoutez moi en ami sur discord : ![](https://dcbadge.vercel.app/api/shield/297854445973274635?style=social)
 
-[![](https://dcbadge.vercel.app/api/server/ZAXrmRPStK?theme=full-presence?logoColor=ff6b6b)](https://discord.gg/ZAXrmRPStK)
+[![](https://dcbadge.vercel.app/api/server/ZAXrmRPStK?theme=full-presence&&?logoColor=ff6b6b)](https://discord.gg/ZAXrmRPStK)
 
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=The8Golden&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
