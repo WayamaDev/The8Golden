@@ -6,11 +6,11 @@
 [![](https://dcbadge.vercel.app/api/server/ZAXrmRPStK?theme=full-presence&&?logoColor=ff6b6b)](https://discord.gg/ZAXrmRPStK)
 
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=The8Golden&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Wayama&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=The8Golden&theme=radical" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Wayama&theme=radical" />
 </a>
 
 <hr/>
